@@ -1,3 +1,6 @@
+[![Board Status](https://dev.azure.com/aseefahmed112/6cc61084-59af-4ef0-b692-2acb4a02ab9a/8394d2e6-67d0-4b96-89a6-b8664ad64e84/_apis/work/boardbadge/fb3fc292-cad2-4655-a082-48f6edade1a7)](https://dev.azure.com/aseefahmed112/6cc61084-59af-4ef0-b692-2acb4a02ab9a/_boards/board/t/8394d2e6-67d0-4b96-89a6-b8664ad64e84/Microsoft.RequirementCategory/)
+
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
